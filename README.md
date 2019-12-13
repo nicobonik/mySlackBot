@@ -1,7 +1,5 @@
-# Food Me!
+# My Slack Bot
+this is my slack bot. it helps me stay organized. 
 
-Using Botkit, this serves as a simple example to get started using slash commands on Slack. Foodme mashes together three emoji to present you with a new food combination each time.
-
-Just run `/foodme`, and watch the magic happen.
-
-Follow along with [the tutorial.](https://nelsonam.github.io/foodme)
+# Who Am I?
+I'm Nico Paoli, the lead programmer for Vulcan Robotics FTC Team 8375
