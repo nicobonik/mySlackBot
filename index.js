@@ -387,7 +387,7 @@ setInterval(function() {
 
         var bot = controller.spawn({
             incoming_webhook: {
-              url: "https://hooks.slack.com/services/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"
+              url: ""
             }
           })
           
